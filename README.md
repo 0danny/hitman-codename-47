@@ -10,6 +10,8 @@
 
 ### Hitman Codename 47 (2000) - Decompilation
 
+### ! THS PROJECT IS NO LONGER BEING WORKED ON !
+
 This repository contains the decompilation project for Hitman Codename 47 (2000). The goal is to reconstruct the source code from the original game binaries in a way that it can be compiled into a working executable. This project is an effort for game preservation.
 
 ## Socials
